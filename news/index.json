@@ -1,0 +1,16 @@
+{
+  "title": "Новости лаунчера",
+  "subtitle": "Последние обновления",
+  "items": [
+    {
+      "slug": "update-2-0-0",
+      "version": "2.0.0",
+      "title": "Обновление 2.0.0",
+      "date": "2026-03-22",
+      "excerpt": "Новый интерфейс, оптимизация.",
+      "cover": "updates/2.0.0/assets/cover.png",
+      "meta": "updates/2.0.0/meta.json",
+      "post": "updates/2.0.0/post.md"
+    }
+  ]
+}

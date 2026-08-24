@@ -7,7 +7,7 @@
         "version": "3.2.2",
         "title": "Обновление 3.2.2",
         "date": "2026-08-24",
-        "excerpt": "Добавлено обучение для новых полльзователей.",
+        "excerpt": "Добавлено обучение для новых пользователей.",
         "cover": "updates/3.2.0/assets/cover.png",
         "meta": "updates/3.2.0/meta.json",
         "post": "updates/3.2.0/post.md"

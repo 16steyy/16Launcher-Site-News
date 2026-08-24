@@ -1,0 +1,86 @@
+{
+    "title": "Новости лаунчера",
+    "subtitle": "Последние обновления",
+    "items": [
+          {
+        "slug": "update-3-2-2",
+        "version": "3.2.2",
+        "title": "Обновление 3.2.2",
+        "date": "2026-08-24",
+        "excerpt": "Добавлено обучение для новых полльзователей.",
+        "cover": "updates/3.2.0/assets/cover.png",
+        "meta": "updates/3.2.0/meta.json",
+        "post": "updates/3.2.0/post.md"
+      },
+          {
+        "slug": "update-3-2-1",
+        "version": "3.2.1",
+        "title": "Обновление 3.2.1",
+        "date": "2026-08-23",
+        "excerpt": "Улучшение вкладки комнат и их приватизация.",
+        "cover": "updates/3.2.0/assets/cover.png",
+        "meta": "updates/3.2.0/meta.json",
+        "post": "updates/3.2.0/post.md"
+      },
+          {
+        "slug": "update-3-2-0",
+        "version": "3.2.0",
+        "title": "Обновление 3.2.0",
+        "date": "2026-08-21",
+        "excerpt": "Улучшение вкладки комнат и их приватизация.",
+        "cover": "updates/3.2.0/assets/cover.png",
+        "meta": "updates/3.2.0/meta.json",
+        "post": "updates/3.2.0/post.md"
+      },
+          {
+        "slug": "update-3-1-0",
+        "version": "3.1.0",
+        "title": "Обновление 3.1.0",
+        "date": "2026-08-18",
+        "excerpt": "Система аккаунтов",
+        "cover": "updates/3.1.0/assets/cover.png",
+        "meta": "updates/3.1.0/meta.json",
+        "post": "updates/3.1.0/post.md"
+      },
+          {
+        "slug": "update-3-0-0",
+        "version": "3.0.0",
+        "title": "Обновление 3.0.0",
+        "date": "2026-08-15",
+        "excerpt": "Система аккаунтов",
+        "cover": "updates/3.0.0/assets/cover.png",
+        "meta": "updates/3.0.0/meta.json",
+        "post": "updates/3.0.0/post.md"
+      },
+          {
+        "slug": "update-2-1-5",
+        "version": "2.1.5",
+        "title": "Обновление 2.1.5",
+        "date": "2026-07-12",
+        "excerpt": "Microsoft авторизация.",
+        "cover": "updates/2.1.5/assets/cover.png",
+        "meta": "updates/2.1.5/meta.json",
+        "post": "updates/2.1.5/post.md"
+      },
+      {
+        "slug": "update-2-1-0",
+        "version": "2.1.0",
+        "title": "Обновление 2.1.0",
+        "date": "2026-06-13",
+        "excerpt": "Двухпанельный режим, поддержка CurseForge и еще много нового!",
+        "cover": "updates/2.1.0/assets/cover.png",
+        "meta": "updates/2.1.0/meta.json",
+        "post": "updates/2.1.0/post.md"
+      },
+      {
+        "slug": "update-2-0-0",
+        "version": "2.0.0",
+        "title": "Обновление 2.0.0",
+        "date": "2026-03-22",
+        "excerpt": "Новый интерфейс, оптимизация.",
+        "cover": "updates/2.0.0/assets/cover.png",
+        "meta": "updates/2.0.0/meta.json",
+        "post": "updates/2.0.0/post.md"
+      }
+    ]
+  }

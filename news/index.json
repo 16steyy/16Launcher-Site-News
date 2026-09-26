@@ -2,6 +2,16 @@
   "title": "Новости лаунчера",
   "subtitle": "Последние обновления",
   "items": [
+            {
+      "slug": "update-3-2-9",
+      "version": "3.2.9",
+      "title": "Обновление 3.2.9",
+      "date": "2026-09-25",
+      "excerpt": "Исправление существующих багов, добавление новых функций.",
+      "cover": "updates/3.2.9/assets/cover.png",
+      "meta": "updates/3.2.9/meta.json",
+      "post": "updates/3.2.9/post.md"
+    },
         {
       "slug": "update-3-2-8",
       "version": "3.2.8",

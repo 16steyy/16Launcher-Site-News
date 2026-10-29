@@ -2,6 +2,16 @@
   "title": "Новости лаунчера",
   "subtitle": "Последние обновления",
   "items": [
+    {
+      "slug": "update-3-3-0",
+      "version": "3.3.0",
+      "title": "Обновление 3.3.0",
+      "date": "2026-10-29",
+      "excerpt": "Новая вкладка сборок, бэкапы, анализатор конфликтов и логов, новый интерфейс.",
+      "cover": "updates/3.3.0/assets/cover.png",
+      "meta": "updates/3.3.0/meta.json",
+      "post": "updates/3.3.0/post.md"
+    },
             {
       "slug": "update-3-2-9",
       "version": "3.2.9",

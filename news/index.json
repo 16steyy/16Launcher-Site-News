@@ -2,6 +2,16 @@
   "title": "Новости лаунчера",
   "subtitle": "Последние обновления",
   "items": [
+        {
+      "slug": "update-3-3-2",
+      "version": "3.3.2",
+      "title": "Обновление 3.3.2",
+      "date": "2026-10-31",
+      "excerpt": "Мониторинг ресурсов, исправление багов.",
+      "cover": "updates/3.3.2/assets/cover.png",
+      "meta": "updates/3.3.2/meta.json",
+      "post": "updates/3.3.2/post.md"
+    },
     {
       "slug": "update-3-3-0",
       "version": "3.3.0",
